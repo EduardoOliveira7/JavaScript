@@ -110,12 +110,16 @@ span.redesociais {
 footer {
     background: #1B357E;
     padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 footer div {
     display: inline;
     float: right;
     margin-right: 40px;
+
 }
 
 button:hover {
